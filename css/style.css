@@ -1,0 +1,85 @@
+body{
+
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 1000px;
+    height: 741px;
+    background: seagreen;
+    margin: 0 auto;
+}
+.menu{
+	background: #20673f;
+    overflow: hidden;
+}
+ul{
+	margin: 0;
+    padding: 0;
+}
+li{    
+	list-style: none;
+    float: left;
+}
+a{  
+	color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 20px;
+    display: block;
+    text-transform: uppercase;
+}
+a:hover{
+	background: aliceblue;
+    color: aliceblue;
+}
+}
+
+.main-content{
+	width: 100%;
+    height: 800px
+}
+.left{
+	width: 70%;
+    height: 600px;
+    background: #a29c9c;
+    float: left;
+}
+.one{
+	width: 70%;
+    height: 250px;
+    background: green;
+    float: left;
+}
+.two{
+	width: 30%;
+    height: 250px;
+    background: orange;
+    float: left;
+}
+.three{
+	width: 33.33%;
+    height: 200px;
+    background: antiquewhite;
+    float: left;
+}
+
+
+.right{
+	width: 30%;
+    height: 700px;
+    background: yellow;
+    float: left;
+}
+.four{
+	width: 100%;
+    height: 350px;
+    background: aqua;
+    float: left;
+}
+
+.copyright{
+	width: 100%;
+    height: 50px;
+    background: green;
+}
